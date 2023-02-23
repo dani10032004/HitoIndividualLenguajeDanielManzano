@@ -1,0 +1,72 @@
+<html lang="ee-es">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tabla información de Productos</title>
+    <link rel="stylesheet" href="tabla_productos.css">
+</head>
+<body>
+    <h1>Tabla Productos</h1>
+
+    <section>
+
+    </section>
+    <script>
+        if (window.XMLHttpRequest)
+        {
+            xmlhttp=new XMLHttpRequest();
+        }
+        else
+        {
+            xmlhttp=new ActiveXObject("Microsoft.XMLHTTP");
+        }
+        xmlhttp.open("GET","codigo.xml",false);
+        xmlhttp.send();
+        xmlDoc=xmlhttp.responseXML;
+        const section = document.querySelector('section');
+        document.write("<table class='table' border='10'>");
+            document.write("<tr>");
+                document.write("<th>Numero de pedido</th>");
+                document.write("<th>Fecha de Compra</th>");
+                document.write("<th>Fecha de Entrega</th>");
+                document.write("<th>Total de la factura </th>");
+                document.write("<th>Nombre del producto</th>");
+                document.write("<th>Referencia</th>");
+                document.write("<th>Precio</th>");
+                document.write("<th>Unidades</th>");
+        var pedido=xmlDoc.getElementsByTagName("pedido");
+        
+        for(var i=0;i<pedido.length;i++)
+        {
+            numero_pedido=pedido[i].getElementsByTagName("numero_pedido")[0].childNodes[0].nodeValue
+            fecha_compra=pedido[i].getElementsByTagName("fecha_compra")[0].childNodes[0].nodeValue
+            fecha_entrega=pedido[i].getElementsByTagName("fecha_entrega")[0].childNodes[0].nodeValue
+            total_factura=pedido[i].getElementsByTagName("total_factura")[0].childNodes[0].nodeValue
+            nombre_producto=pedido[i].getElementsByTagName("nombre_producto")[0].childNodes[0].nodeValue
+            referencia=pedido[i].getElementsByTagName("referencia")[0].childNodes[0].nodeValue
+            precio=pedido[i].getElementsByTagName("precio")[0].childNodes[0].nodeValue
+            unidades=pedido[i].getElementsByTagName("unidades")[0].childNodes[0].nodeValue
+
+        document.write("<tr><td>");
+            document.write(numero_pedido);
+            document.write("</td><td>");
+            document.write(fecha_compra);
+            document.write("</td><td>");
+            document.write(fecha_entrega);
+            document.write("</td><td>");
+            document.write(total_factura);
+            document.write("</td><td>");
+            document.write(nombre_producto);
+            document.write("</td><td>");
+            document.write(referencia);
+            document.write("</td><td>");
+            document.write(precio);
+            document.write("</td><td>");
+            document.write(unidades);
+            document.write("</td><td>");
+        }
+        document.write("</table>");
+    </script>
+</body>
+</html>

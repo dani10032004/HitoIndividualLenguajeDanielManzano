@@ -1,0 +1,17 @@
+.table{
+    background-color: rgb(255, 255, 255);
+    border: 1px solid black;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+body{
+    color: rgb(2, 1, 1);
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: x-large;
+    background-image: url(imagenes/21omxpw.jpg);
+}
+h1{
+    color: white;
+}

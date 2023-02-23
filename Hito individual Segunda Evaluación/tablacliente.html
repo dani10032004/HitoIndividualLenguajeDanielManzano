@@ -1,0 +1,76 @@
+<html lang="ee-es">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tabla información de Clientes</title>
+    <link rel="stylesheet" href="tabla_cliente.css">
+</head>
+<body>
+    <h1>Tabla Clientes</h1>
+
+    <section>
+
+    </section>
+    <script>
+        if (window.XMLHttpRequest)
+        {
+            xmlhttp=new XMLHttpRequest();
+        }
+        else
+        {
+            xmlhttp=new ActiveXObject("Microsoft.XMLHTTP");
+        }
+        xmlhttp.open("GET","codigo.xml",false);
+        xmlhttp.send();
+        xmlDoc=xmlhttp.responseXML;
+        const section = document.querySelector('section');
+        document.write("<table class='table' border='10'>");
+            document.write("<tr>");
+                document.write("<th>Nombre</th>");
+                document.write("<th>Apellidos</th>");
+                document.write("<th>Teléfono</th>");
+                document.write("<th>Calle </th>");
+                document.write("<th>Ciudad</th>");
+                document.write("<th>Código postal</th>");
+                document.write("<th>Provincia</th>");
+                document.write("<th>Correo electrónico</th>");
+                document.write("<th>Fecha de inclusión</th>");
+        var pedido=xmlDoc.getElementsByTagName("pedido");
+        
+        for(var i=0;i<pedido.length;i++)
+        {
+            nombre=pedido[i].getElementsByTagName("nombre")[0].childNodes[0].nodeValue
+            apellidos=pedido[i].getElementsByTagName("apellidos")[0].childNodes[0].nodeValue
+            telefono=pedido[i].getElementsByTagName("telefono")[0].childNodes[0].nodeValue
+            calle=pedido[i].getElementsByTagName("calle")[0].childNodes[0].nodeValue
+            ciudad=pedido[i].getElementsByTagName("ciudad")[0].childNodes[0].nodeValue
+            codigo_postal=pedido[i].getElementsByTagName("codigo_postal")[0].childNodes[0].nodeValue
+            provincia=pedido[i].getElementsByTagName("provincia")[0].childNodes[0].nodeValue
+            correo_electronico=pedido[i].getElementsByTagName("correo_electronico")[0].childNodes[0].nodeValue
+            fecha_inclusion=pedido[i].getElementsByTagName("fecha_inclusion")[0].childNodes[0].nodeValue
+
+        document.write("<tr><td>");
+            document.write(nombre);
+            document.write("</td><td>");
+            document.write(apellidos);
+            document.write("</td><td>");
+            document.write(telefono);
+            document.write("</td><td>");
+            document.write(calle);
+            document.write("</td><td>");
+            document.write(ciudad);
+            document.write("</td><td>");
+            document.write(codigo_postal);
+            document.write("</td><td>");
+            document.write(provincia);
+            document.write("</td><td>");
+            document.write(correo_electronico);
+            document.write("</td><td>");
+            document.write(fecha_inclusion);
+            document.write("</td></tr>");
+        }
+        document.write("</table>");
+    </script>
+</body>
+</html>

@@ -1,0 +1,2183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pedidos>
+  <año_2021>  
+    <trimestre1 trimestre="1">
+      <pedido>
+        <nombre>Juan</nombre>
+        <apellidos>García Pérez</apellidos>
+        <telefono>647895210</telefono>
+        <direccion>
+          <calle>Calle Mayor 1</calle>
+          <ciudad>Madrid</ciudad>
+          <codigo_postal>28001</codigo_postal>
+          <provincia>Madrid</provincia>
+        </direccion>
+        <correo_electronico>juan.garcia@gmail.com</correo_electronico>
+        <fecha_inclusion>2021-01-01</fecha_inclusion>
+        <detalle_pedido>
+          <numero_pedido>1</numero_pedido>
+          <fecha_compra>2021-01-05</fecha_compra>
+          <fecha_entrega>2021-01-10</fecha_entrega>
+          <total_factura>60.00</total_factura>
+          <productos>
+            <producto>
+              <nombre_producto>Camisa</nombre_producto>
+              <referencia>R9FE</referencia>
+              <precio>30.00</precio>
+              <unidades>2</unidades>
+            </producto>
+           </productos>
+        </detalle_pedido>
+        </pedido>
+        <pedido>
+            <nombre>Maria</nombre>
+            <apellidos>Gonzalez Sanz</apellidos>
+            <telefono>658941720</telefono>
+            <direccion>
+              <calle>Calle Andalucia</calle>
+              <ciudad>Marbella</ciudad>
+              <codigo_postal>26958</codigo_postal>
+              <provincia>Málaga</provincia>
+            </direccion>
+            <correo_electronico>maria.gonzalez@gmail.com</correo_electronico>
+            <fecha_inclusion>2021-03-14</fecha_inclusion>
+            <detalle_pedido>
+              <numero_pedido>2</numero_pedido>
+              <fecha_compra>2021-03-10</fecha_compra>
+              <fecha_entrega>2021-03-17</fecha_entrega>
+              <total_factura>111.65</total_factura>
+              <productos>
+                <producto>
+                  <nombre_producto>Pantalon</nombre_producto>
+                  <referencia>8ANK</referencia>
+                  <precio>15.95</precio>
+                  <unidades>7</unidades>
+                </producto>
+               </productos>
+            </detalle_pedido>
+        </pedido>
+        <pedido>
+            <nombre>Pablo</nombre>
+            <apellidos>Martinez Cruz</apellidos>
+            <telefono>698958741</telefono>
+            <direccion>
+              <calle>Calle de la Hispanidad</calle>
+              <ciudad>Cáceres</ciudad>
+              <codigo_postal>24789</codigo_postal>
+              <provincia>Extremadura</provincia>
+            </direccion>
+            <correo_electronico>pablo.martinez@gmail.com</correo_electronico>
+            <fecha_inclusion>2021-05-10</fecha_inclusion>
+            <detalle_pedido>
+              <numero_pedido>3</numero_pedido>
+              <fecha_compra>2021-05-14</fecha_compra>
+              <fecha_entrega>2021-05-17</fecha_entrega>
+              <total_factura>835.02</total_factura>
+              <productos>
+                <producto>
+                  <nombre_producto>Sudadera Jordan</nombre_producto>
+                  <referencia>FUGJ</referencia>
+                  <precio>55.68</precio>
+                  <unidades>15</unidades>
+                </producto>
+               </productos>
+            </detalle_pedido>
+        </pedido>
+        <pedido>
+            <nombre>Marta</nombre>
+            <apellidos>Sainz Perez</apellidos>
+            <telefono>654789120</telefono>
+            <direccion>
+              <calle>Calle de las Rozas</calle>
+              <ciudad>Las Rozas</ciudad>
+              <codigo_postal>26879</codigo_postal>
+              <provincia>Madrid</provincia>
+            </direccion>
+            <correo_electronico>marta.sainz@gmail.com</correo_electronico>
+            <fecha_inclusion>2021-07-10</fecha_inclusion>
+            <detalle_pedido>
+              <numero_pedido>4</numero_pedido>
+              <fecha_compra>2021-07-14</fecha_compra>
+              <fecha_entrega>2021-07-17</fecha_entrega>
+              <total_factura>480.24</total_factura>
+              <productos>
+                <producto>
+                  <nombre_producto>Zapatillas Jordan</nombre_producto>
+                  <referencia>TWUL</referencia>
+                  <precio>26.68</precio>
+                  <unidades>18</unidades>
+                </producto>
+               </productos>
+            </detalle_pedido>
+        </pedido>
+        <pedido>
+            <nombre>Lucía</nombre>
+            <apellidos>Fernandez Ruiz</apellidos>
+            <telefono>678954120</telefono>
+            <direccion>
+              <calle>Carrer de Amistad</calle>
+              <ciudad>Gavá</ciudad>
+              <codigo_postal>25687</codigo_postal>
+              <provincia>Barcelona</provincia>
+            </direccion>
+            <correo_electronico>lucia.fernandez@gmail.com</correo_electronico>
+            <fecha_inclusion>2021-02-10</fecha_inclusion>
+            <detalle_pedido>
+              <numero_pedido>5</numero_pedido>
+              <fecha_compra>2021-02-14</fecha_compra>
+              <fecha_entrega>2021-02-17</fecha_entrega>
+              <total_factura>112.50</total_factura>
+              <productos>
+                <producto>
+                  <nombre_producto>Gorra Verde</nombre_producto>
+                  <referencia>98MK</referencia>
+                  <precio>12.50</precio>
+                  <unidades>8</unidades>
+                </producto>
+               </productos>
+            </detalle_pedido>
+        </pedido>
+        <pedido>
+            <nombre>Dani</nombre>
+            <apellidos>Manzano Núñez</apellidos>
+            <telefono>695969875</telefono>
+            <direccion>
+              <calle>Calle Miguel de Cervantes</calle>
+              <ciudad>Fuenlabrada</ciudad>
+              <codigo_postal>28942</codigo_postal>
+              <provincia>Madrid</provincia>
+            </direccion>
+            <correo_electronico>daniel.manzano@gmail.com</correo_electronico>
+            <fecha_inclusion>2021-12-10</fecha_inclusion>
+            <detalle_pedido>
+              <numero_pedido>6</numero_pedido>
+              <fecha_compra>2021-12-14</fecha_compra>
+              <fecha_entrega>2021-12-17</fecha_entrega>
+              <total_factura>37.50</total_factura>
+              <productos>
+                <producto>
+                  <nombre_producto>Camiseta del Real Madrid</nombre_producto>
+                  <referencia>YX2Y</referencia>
+                  <precio>12.50</precio>
+                  <unidades>3</unidades>
+                </producto>
+               </productos>
+            </detalle_pedido>
+        </pedido>
+        <pedido>
+            <nombre>Dani</nombre>
+            <apellidos>Manzano Núñez</apellidos>
+            <telefono>695969875</telefono>
+            <direccion>
+              <calle>Calle Miguel de Cervantes</calle>
+              <ciudad>Fuenlabrada</ciudad>
+              <codigo_postal>28942</codigo_postal>
+              <provincia>Madrid</provincia>
+            </direccion>
+            <correo_electronico>daniel.manzano@gmail.com</correo_electronico>
+            <fecha_inclusion>2021-12-20</fecha_inclusion>
+            <detalle_pedido>
+              <numero_pedido>7</numero_pedido>
+              <fecha_compra>2021-12-24</fecha_compra>
+              <fecha_entrega>2021-12-27</fecha_entrega>
+              <total_factura>422.50</total_factura>
+              <productos>
+                <producto>
+                  <nombre_producto>Sudadera del Real Madrid</nombre_producto>
+                  <referencia>TTHW</referencia>
+                  <precio>32.50</precio>
+                  <unidades>13</unidades>
+                </producto>
+               </productos>
+            </detalle_pedido>
+        </pedido>
+        <pedido>
+            <nombre>Dani</nombre>
+            <apellidos>Manzano Núñez</apellidos>
+            <telefono>695969875</telefono>
+            <direccion>
+              <calle>Calle Miguel de Cervantes</calle>
+              <ciudad>Fuenlabrada</ciudad>
+              <codigo_postal>28942</codigo_postal>
+              <provincia>Madrid</provincia>
+            </direccion>
+            <correo_electronico>daniel.manzano@gmail.com</correo_electronico>
+            <fecha_inclusion>2021-10-10</fecha_inclusion>
+            <detalle_pedido>
+              <numero_pedido>8</numero_pedido>
+              <fecha_compra>2021-10-14</fecha_compra>
+              <fecha_entrega>2021-10-17</fecha_entrega>
+              <total_factura>203.50</total_factura>
+              <productos>
+                <producto>
+                  <nombre_producto>Pantalón del Real Madrid</nombre_producto>
+                  <referencia>JFGR</referencia>
+                  <precio>18.50</precio>
+                  <unidades>11</unidades>
+                </producto>
+               </productos>
+            </detalle_pedido>
+        </pedido>
+        <pedido>
+            <nombre>Dani</nombre>
+            <apellidos>Manzano Núñez</apellidos>
+            <telefono>695969875</telefono>
+            <direccion>
+              <calle>Calle Miguel de Cervantes</calle>
+              <ciudad>Fuenlabrada</ciudad>
+              <codigo_postal>28942</codigo_postal>
+              <provincia>Madrid</provincia>
+            </direccion>
+            <correo_electronico>daniel.manzano@gmail.com</correo_electronico>
+            <fecha_inclusion>2021-08-10</fecha_inclusion>
+            <detalle_pedido>
+              <numero_pedido>9</numero_pedido>
+              <fecha_compra>2021-08-14</fecha_compra>
+              <fecha_entrega>2021-08-17</fecha_entrega>
+              <total_factura>255.00</total_factura>
+              <productos>
+                <producto>
+                  <nombre_producto>Botas de Nike</nombre_producto>
+                  <referencia>HBCE</referencia>
+                  <precio>42.50</precio>
+                  <unidades>6</unidades>
+                </producto>
+               </productos>
+            </detalle_pedido>
+        </pedido>
+        <pedido>
+            <nombre>Dani</nombre>
+            <apellidos>Manzano Núñez</apellidos>
+            <telefono>695969875</telefono>
+            <direccion>
+              <calle>Calle Miguel de Cervantes</calle>
+              <ciudad>Fuenlabrada</ciudad>
+              <codigo_postal>28942</codigo_postal>
+              <provincia>Madrid</provincia>
+            </direccion>
+            <correo_electronico>daniel.manzano@gmail.com</correo_electronico>
+            <fecha_inclusion>2021-09-10</fecha_inclusion>
+            <detalle_pedido>
+              <numero_pedido>10</numero_pedido>
+              <fecha_compra>2021-09-14</fecha_compra>
+              <fecha_entrega>2021-09-17</fecha_entrega>
+              <total_factura>42.36</total_factura>
+              <productos>
+                <producto>
+                  <nombre_producto>Gafas de sol</nombre_producto>
+                  <referencia>5CFY</referencia>
+                  <precio>10.59</precio>
+                  <unidades>4</unidades>
+                </producto>
+               </productos>
+            </detalle_pedido>
+        </pedido>
+      </trimestre1>
+      <trimestre trimestre="2">
+            <pedido>
+              <nombre>Mario</nombre>
+              <apellidos>Alonso Fernandez</apellidos>
+              <telefono>645879410</telefono>
+              <direccion>
+                <calle>Calle Juan de la Cierva</calle>
+                <ciudad>Getafe</ciudad>
+                <codigo_postal>28781</codigo_postal>
+                <provincia>Madrid</provincia>
+              </direccion>
+              <correo_electronico>mario.alonso@gmail.com</correo_electronico>
+              <fecha_inclusion>2021-04-11</fecha_inclusion>
+              <detalle_pedido>
+                <numero_pedido>1</numero_pedido>
+                <fecha_compra>2021-04-15</fecha_compra>
+                <fecha_entrega>2021-04-20</fecha_entrega>
+                <total_factura>660.00</total_factura>
+                <productos>
+                  <producto>
+                    <nombre_producto>Reloj Casio</nombre_producto>
+                    <referencia>HVRS</referencia>
+                    <precio>55.00</precio>
+                    <unidades>12</unidades>
+                  </producto>
+                 </productos>
+              </detalle_pedido>
+              </pedido>
+              <pedido>
+                  <nombre>Marti</nombre>
+                  <apellidos>Miras Sanz</apellidos>
+                  <telefono>547895871</telefono>
+                  <direccion>
+                    <calle>Calle de la Paz</calle>
+                    <ciudad>Talavera</ciudad>
+                    <codigo_postal>24589</codigo_postal>
+                    <provincia>Toledo</provincia>
+                  </direccion>
+                  <correo_electronico>marti.miras@gmail.com</correo_electronico>
+                  <fecha_inclusion>2021-05-04</fecha_inclusion>
+                  <detalle_pedido>
+                    <numero_pedido>2</numero_pedido>
+                    <fecha_compra>2021-05-10</fecha_compra>
+                    <fecha_entrega>2021-05-17</fecha_entrega>
+                    <total_factura>10754.95</total_factura>
+                    <productos>
+                      <producto>
+                        <nombre_producto>Ferrari</nombre_producto>
+                        <referencia>GN4F</referencia>
+                        <precio>10754.95</precio>
+                        <unidades>1</unidades>
+                      </producto>
+                     </productos>
+                  </detalle_pedido>
+              </pedido>
+              <pedido>
+                  <nombre>Jorge</nombre>
+                  <apellidos>Escobar Cruz</apellidos>
+                  <telefono>759812035</telefono>
+                  <direccion>
+                    <calle>Calle de las Margaritas</calle>
+                    <ciudad>Leganes</ciudad>
+                    <codigo_postal>26598</codigo_postal>
+                    <provincia>Madrid</provincia>
+                  </direccion>
+                  <correo_electronico>jorge.escobar@gmail.com</correo_electronico>
+                  <fecha_inclusion>2021-11-01</fecha_inclusion>
+                  <detalle_pedido>
+                    <numero_pedido>3</numero_pedido>
+                    <fecha_compra>2021-11-14</fecha_compra>
+                    <fecha_entrega>2021-11-17</fecha_entrega>
+                    <total_factura>1049.40</total_factura>
+                    <productos>
+                      <producto>
+                        <nombre_producto>Chaqueta Norway</nombre_producto>
+                        <referencia>PMHA</referencia>
+                        <precio>87.45</precio>
+                        <unidades>12</unidades>
+                      </producto>
+                     </productos>
+                  </detalle_pedido>
+              </pedido>
+              <pedido>
+                  <nombre>Roberto</nombre>
+                  <apellidos>Escribano Romero</apellidos>
+                  <telefono>647895120</telefono>
+                  <direccion>
+                    <calle>Avenida Juan Carlos I</calle>
+                    <ciudad>Cartuja</ciudad>
+                    <codigo_postal>12578</codigo_postal>
+                    <provincia>Sevilla</provincia>
+                  </direccion>
+                  <correo_electronico>roberto.escribano@gmail.com</correo_electronico>
+                  <fecha_inclusion>2021-02-12</fecha_inclusion>
+                  <detalle_pedido>
+                    <numero_pedido>4</numero_pedido>
+                    <fecha_compra>2021-02-24</fecha_compra>
+                    <fecha_entrega>2021-02-28</fecha_entrega>
+                    <total_factura>2480.94</total_factura>
+                    <productos>
+                      <producto>
+                        <nombre_producto>Ordenador MSI</nombre_producto>
+                        <referencia>CNW5</referencia>
+                        <precio>826.98</precio>
+                        <unidades>3</unidades>
+                      </producto>
+                     </productos>
+                  </detalle_pedido>
+              </pedido>
+              <pedido>
+                  <nombre>Marcos</nombre>
+                  <apellidos>Arjona Esteban</apellidos>
+                  <telefono>612598740</telefono>
+                  <direccion>
+                    <calle>Avenida de la Concepción</calle>
+                    <ciudad>Romareda</ciudad>
+                    <codigo_postal>15647</codigo_postal>
+                    <provincia>Zaragoza</provincia>
+                  </direccion>
+                  <correo_electronico>marcos.arjona@gmail.com</correo_electronico>
+                  <fecha_inclusion>2021-12-07</fecha_inclusion>
+                  <detalle_pedido>
+                    <numero_pedido>5</numero_pedido>
+                    <fecha_compra>2021-12-24</fecha_compra>
+                    <fecha_entrega>2021-12-31</fecha_entrega>
+                    <total_factura>1409.76</total_factura>
+                    <productos>
+                      <producto>
+                        <nombre_producto>Ratón para ordenador</nombre_producto>
+                        <referencia>WB7W</referencia>
+                        <precio>58.74</precio>
+                        <unidades>24</unidades>
+                      </producto>
+                     </productos>
+                  </detalle_pedido>
+              </pedido>
+              <pedido>
+                  <nombre>Alvaro</nombre>
+                  <apellidos>Garcia Llorente</apellidos>
+                  <telefono>687954120</telefono>
+                  <direccion>
+                    <calle>Calle Concepción Arenal</calle>
+                    <ciudad>Alcalá de Henares</ciudad>
+                    <codigo_postal>25647</codigo_postal>
+                    <provincia>Madrid</provincia>
+                  </direccion>
+                  <correo_electronico>alvaro.garcia@gmail.com</correo_electronico>
+                  <fecha_inclusion>2021-03-15</fecha_inclusion>
+                  <detalle_pedido>
+                    <numero_pedido>6</numero_pedido>
+                    <fecha_compra>2021-03-24</fecha_compra>
+                    <fecha_entrega>2021-07-31</fecha_entrega>
+                    <total_factura>97.35</total_factura>
+                    <productos>
+                      <producto>
+                        <nombre_producto>Alfonbrilla para ratón</nombre_producto>
+                        <referencia>3ZWK</referencia>
+                        <precio>06.49</precio>
+                        <unidades>15</unidades>
+                      </producto>
+                     </productos>
+                  </detalle_pedido>
+              </pedido>
+              <pedido>
+                  <nombre>Alvaro</nombre>
+                  <apellidos>Garcia Llorente</apellidos>
+                  <telefono>687954120</telefono>
+                  <direccion>
+                    <calle>Calle Concepción Arenal</calle>
+                    <ciudad>Alcalá de Henares</ciudad>
+                    <codigo_postal>25647</codigo_postal>
+                    <provincia>Madrid</provincia>
+                  </direccion>
+                  <correo_electronico>alvaro.garcia@gmail.com</correo_electronico>
+                  <fecha_inclusion>2021-12-20</fecha_inclusion>
+                  <detalle_pedido>
+                    <numero_pedido>7</numero_pedido>
+                    <fecha_compra>2021-10-24</fecha_compra>
+                    <fecha_entrega>2021-10-27</fecha_entrega>
+                    <total_factura>422.50</total_factura>
+                    <productos>
+                      <producto>
+                        <nombre_producto>Sudadera del Real Betis</nombre_producto>
+                        <referencia>BBLF</referencia>
+                        <precio>32.50</precio>
+                        <unidades>13</unidades>
+                      </producto>
+                     </productos>
+                  </detalle_pedido>
+              </pedido>
+              <pedido>
+                  <nombre>Alvaro</nombre>
+                  <apellidos>Garcia Llorente</apellidos>
+                  <telefono>687954120</telefono>
+                  <direccion>
+                    <calle>Calle Concepción Arenal</calle>
+                    <ciudad>Alcalá de Henares</ciudad>
+                    <codigo_postal>25647</codigo_postal>
+                    <provincia>Madrid</provincia>
+                  </direccion>
+                  <correo_electronico>alvaro.garcia@gmail.com</correo_electronico>
+                  <fecha_inclusion>2021-10-10</fecha_inclusion>
+                  <detalle_pedido>
+                    <numero_pedido>8</numero_pedido>
+                    <fecha_compra>2021-05-14</fecha_compra>
+                    <fecha_entrega>2021-05-17</fecha_entrega>
+                    <total_factura>366.80</total_factura>
+                    <productos>
+                      <producto>
+                        <nombre_producto>Pantalón del Real Betis</nombre_producto>
+                        <referencia>PD4F</referencia>
+                        <precio>26.20</precio>
+                        <unidades>14</unidades>
+                      </producto>
+                     </productos>
+                  </detalle_pedido>
+              </pedido>
+              <pedido>
+                  <nombre>Alvaro</nombre>
+                  <apellidos>Garcia Llorente</apellidos>
+                  <telefono>687954120</telefono>
+                  <direccion>
+                    <calle>Calle Concepción Arenal</calle>
+                    <ciudad>Alcalá de Henares</ciudad>
+                    <codigo_postal>25647</codigo_postal>
+                    <provincia>Madrid</provincia>
+                  </direccion>
+                  <correo_electronico>alvaro.garcia@gmail.com</correo_electronico>
+                  <fecha_inclusion>2021-08-10</fecha_inclusion>
+                  <detalle_pedido>
+                    <numero_pedido>9</numero_pedido>
+                    <fecha_compra>2021-06-14</fecha_compra>
+                    <fecha_entrega>2021-06-17</fecha_entrega>
+                    <total_factura>784.10</total_factura>
+                    <productos>
+                      <producto>
+                        <nombre_producto>Botas de Puma</nombre_producto>
+                        <referencia>NDUE</referencia>
+                        <precio>78.41</precio>
+                        <unidades>10</unidades>
+                      </producto>
+                     </productos>
+                  </detalle_pedido>
+              </pedido>
+              <pedido>
+                  <nombre>Alvaro</nombre>
+                  <apellidos>Garcia Llorente</apellidos>
+                  <telefono>687954120</telefono>
+                  <direccion>
+                    <calle>Calle Concepción Arenal</calle>
+                    <ciudad>Alcalá de Henares</ciudad>
+                    <codigo_postal>25647</codigo_postal>
+                    <provincia>Madrid</provincia>
+                  </direccion>
+                  <correo_electronico>alvaro.garcia@gmail.com</correo_electronico>
+                  <fecha_inclusion>2021-09-10</fecha_inclusion>
+                  <detalle_pedido>
+                    <numero_pedido>10</numero_pedido>
+                    <fecha_compra>2021-01-14</fecha_compra>
+                    <fecha_entrega>2021-01-17</fecha_entrega>
+                    <total_factura>301.70</total_factura>
+                    <productos>
+                      <producto>
+                        <nombre_producto>Botas Addidas</nombre_producto>
+                        <referencia>6G66</referencia>
+                        <precio>43.10</precio>
+                        <unidades>7</unidades>
+                      </producto>
+                     </productos>
+                  </detalle_pedido>
+              </pedido>
+        </trimestre>
+        <trimestre trimestre="3">
+            <pedido>
+              <nombre>Marco</nombre>
+              <apellidos>Antonio Muñiz</apellidos>
+              <telefono>539794577</telefono>
+              <direccion>
+                <calle>Avinguda Naia, 0, 8º B</calle>
+                <ciudad>La Rioja</ciudad>
+                <codigo_postal>60905</codigo_postal>
+                <provincia>La Rioja</provincia>
+              </direccion>
+              <correo_electronico>marco.antonio@gmail.com</correo_electronico>
+              <fecha_inclusion>2021-12-09</fecha_inclusion>
+              <detalle_pedido>
+                <numero_pedido>1</numero_pedido>
+                <fecha_compra>2021-09-05</fecha_compra>
+                <fecha_entrega>2021-09-10</fecha_entrega>
+                <total_factura>495.00</total_factura>
+                <productos>
+                  <producto>
+                    <nombre_producto>Pizarra digital</nombre_producto>
+                    <referencia>YSKZ</referencia>
+                    <precio>49.50</precio>
+                    <unidades>10</unidades>
+                  </producto>
+                 </productos>
+              </detalle_pedido>
+              </pedido>
+              <pedido>
+                  <nombre>Raquel</nombre>
+                  <apellidos>Córdoba</apellidos>
+                  <telefono>674134926</telefono>
+                  <direccion>
+                    <calle>Passeig Jan, 007, 35º D</calle>
+                    <ciudad>La Borrego de San Pedro</ciudad>
+                    <codigo_postal>08708</codigo_postal>
+                    <provincia>Lugo</provincia>
+                  </direccion>
+                  <correo_electronico>raquel.cordoba@gmail.com</correo_electronico>
+                  <fecha_inclusion>2021-07-14</fecha_inclusion>
+                  <detalle_pedido>
+                    <numero_pedido>2</numero_pedido>
+                    <fecha_compra>2021-07-17</fecha_compra>
+                    <fecha_entrega>2021-07-25</fecha_entrega>
+                    <total_factura>1111.92</total_factura>
+                    <productos>
+                      <producto>
+                        <nombre_producto>Proyector</nombre_producto>
+                        <referencia>VV98</referencia>
+                        <precio>555.96</precio>
+                        <unidades>2</unidades>
+                      </producto>
+                     </productos>
+                  </detalle_pedido>
+              </pedido>
+              <pedido>
+                  <nombre>Aleix</nombre>
+                  <apellidos>Chapa</apellidos>
+                  <telefono>965717325</telefono>
+                  <direccion>
+                    <calle>Plaça Carlos, 27, 02º B</calle>
+                    <ciudad>L' Castellanos del Vallès</ciudad>
+                    <codigo_postal>24281</codigo_postal>
+                    <provincia>Álava</provincia>
+                  </direccion>
+                  <correo_electronico>aleix.chapa@gmail.com</correo_electronico>
+                  <fecha_inclusion>2021-01-25</fecha_inclusion>
+                  <detalle_pedido>
+                    <numero_pedido>3</numero_pedido>
+                    <fecha_compra>2021-01-14</fecha_compra>
+                    <fecha_entrega>2021-01-17</fecha_entrega>
+                    <total_factura>303.96</total_factura>
+                    <productos>
+                      <producto>
+                        <nombre_producto>Reloj digital</nombre_producto>
+                        <referencia>R9YU</referencia>
+                        <precio>75.99</precio>
+                        <unidades>4</unidades>
+                      </producto>
+                     </productos>
+                  </detalle_pedido>
+              </pedido>
+              <pedido>
+                  <nombre>Natalia</nombre>
+                  <apellidos>Más Tercero</apellidos>
+                  <telefono>989830020</telefono>
+                  <direccion>
+                    <calle>Rúa Alonso, 49, 6º A</calle>
+                    <ciudad>El Jiménez del Penedès</ciudad>
+                    <codigo_postal>53658</codigo_postal>
+                    <provincia>Cantabria</provincia>
+                  </direccion>
+                  <correo_electronico>natalia.tercero@gmail.com</correo_electronico>
+                  <fecha_inclusion>2021-06-12</fecha_inclusion>
+                  <detalle_pedido>
+                    <numero_pedido>4</numero_pedido>
+                    <fecha_compra>2021-06-24</fecha_compra>
+                    <fecha_entrega>2021-06-28</fecha_entrega>
+                    <total_factura>259.80</total_factura>
+                    <productos>
+                      <producto>
+                        <nombre_producto>Sudadera Nike</nombre_producto>
+                        <referencia>C8DA</referencia>
+                        <precio>25.98</precio>
+                        <unidades>10</unidades>
+                      </producto>
+                     </productos>
+                  </detalle_pedido>
+              </pedido>
+              <pedido>
+                  <nombre>Sandra</nombre>
+                  <apellidos>Zaragoza</apellidos>
+                  <telefono>963155762</telefono>
+                  <direccion>
+                    <calle>Plaza Ibáñez, 79, 1º D</calle>
+                    <ciudad>Rincón del Vallès</ciudad>
+                    <codigo_postal>47229</codigo_postal>
+                    <provincia>Palencia</provincia>
+                  </direccion>
+                  <correo_electronico>sandra.zaragoza@gmail.com</correo_electronico>
+                  <fecha_inclusion>2021-04-17</fecha_inclusion>
+                  <detalle_pedido>
+                    <numero_pedido>5</numero_pedido>
+                    <fecha_compra>2021-04-24</fecha_compra>
+                    <fecha_entrega>2021-04-31</fecha_entrega>
+                    <total_factura>459.74</total_factura>
+                    <productos>
+                      <producto>
+                        <nombre_producto>Iphone 11</nombre_producto>
+                        <referencia>ET22</referencia>
+                        <precio>459.74</precio>
+                        <unidades>1</unidades>
+                      </producto>
+                     </productos>
+                  </detalle_pedido>
+              </pedido>
+              <pedido>
+                  <nombre>Roberto</nombre>
+                  <apellidos>Alva</apellidos>
+                  <telefono>683876245</telefono>
+                  <direccion>
+                    <calle>Travessera Guajardo, 36, Bajo 0º</calle>
+                    <ciudad>Segura del Vallès</ciudad>
+                    <codigo_postal>69652</codigo_postal>
+                    <provincia>Segovia</provincia>
+                  </direccion>
+                  <correo_electronico>roberto.alva@gmail.com</correo_electronico>
+                  <fecha_inclusion>2021-06-11</fecha_inclusion>
+                  <detalle_pedido>
+                    <numero_pedido>6</numero_pedido>
+                    <fecha_compra>2021-06-27</fecha_compra>
+                    <fecha_entrega>2021-06-30</fecha_entrega>
+                    <total_factura>344.63</total_factura>
+                    <productos>
+                      <producto>
+                        <nombre_producto>Pulsera España</nombre_producto>
+                        <referencia>3FHG</referencia>
+                        <precio>26.51</precio>
+                        <unidades>13</unidades>
+                      </producto>
+                     </productos>
+                  </detalle_pedido>
+              </pedido>
+              <pedido>
+                  <nombre>Roberto</nombre>
+                  <apellidos>Alva</apellidos>
+                  <telefono>683876245</telefono>
+                  <direccion>
+                    <calle>Travessera Guajardo, 36, Bajo 0º</calle>
+                    <ciudad>Segura del Vallès</ciudad>
+                    <codigo_postal>69652</codigo_postal>
+                    <provincia>Segovia</provincia>
+                  </direccion>
+                  <correo_electronico>roberto.alva@gmail.com</correo_electronico>
+                  <fecha_inclusion>2021-03-20</fecha_inclusion>
+                  <detalle_pedido>
+                    <numero_pedido>7</numero_pedido>
+                    <fecha_compra>2021-03-24</fecha_compra>
+                    <fecha_entrega>2021-03-27</fecha_entrega>
+                    <total_factura>303.96</total_factura>
+                    <productos>
+                      <producto>
+                        <nombre_producto>Zapatillas Nike</nombre_producto>
+                        <referencia>Y5DX</referencia>
+                        <precio>75.99</precio>
+                        <unidades>4</unidades>
+                      </producto>
+                     </productos>
+                  </detalle_pedido>
+              </pedido>
+              <pedido>
+                  <nombre>Roberto</nombre>
+                  <apellidos>Alva</apellidos>
+                  <telefono>683876245</telefono>
+                  <direccion>
+                    <calle>Travessera Guajardo, 36, Bajo 0º</calle>
+                    <ciudad>Segura del Vallès</ciudad>
+                    <codigo_postal>69652</codigo_postal>
+                    <provincia>Segovia</provincia>
+                  </direccion>
+                  <correo_electronico>roberto.alva@gmail.com</correo_electronico>
+                  <fecha_inclusion>2021-08-10</fecha_inclusion>
+                  <detalle_pedido>
+                    <numero_pedido>8</numero_pedido>
+                    <fecha_compra>2021-08-14</fecha_compra>
+                    <fecha_entrega>2021-08-17</fecha_entrega>
+                    <total_factura>221.22</total_factura>
+                    <productos>
+                      <producto>
+                        <nombre_producto>Gorra Jordan</nombre_producto>
+                        <referencia>QLUS</referencia>
+                        <precio>12.29</precio>
+                        <unidades>18</unidades>
+                      </producto>
+                     </productos>
+                  </detalle_pedido>
+              </pedido>
+              <pedido>
+                  <nombre>Roberto</nombre>
+                  <apellidos>Alva</apellidos>
+                  <telefono>683876245</telefono>
+                  <direccion>
+                    <calle>Travessera Guajardo, 36, Bajo 0º</calle>
+                    <ciudad>Segura del Vallès</ciudad>
+                    <codigo_postal>69652</codigo_postal>
+                    <provincia>Segovia</provincia>
+                  </direccion>
+                  <correo_electronico>roberto.alva@gmail.com</correo_electronico>
+                  <fecha_inclusion>2021-11-10</fecha_inclusion>
+                  <detalle_pedido>
+                    <numero_pedido>9</numero_pedido>
+                    <fecha_compra>2021-11-14</fecha_compra>
+                    <fecha_entrega>2021-11-17</fecha_entrega>
+                    <total_factura>108.78</total_factura>
+                    <productos>
+                      <producto>
+                        <nombre_producto>Mesa escritorio</nombre_producto>
+                        <referencia>SB7T</referencia>
+                        <precio>54.39</precio>
+                        <unidades>2</unidades>
+                      </producto>
+                     </productos>
+                  </detalle_pedido>
+              </pedido>
+              <pedido>
+                  <nombre>Roberto</nombre>
+                  <apellidos>Alva</apellidos>
+                  <telefono>683876245</telefono>
+                  <direccion>
+                    <calle>Travessera Guajardo, 36, Bajo 0º</calle>
+                    <ciudad>Segura del Vallès</ciudad>
+                    <codigo_postal>69652</codigo_postal>
+                    <provincia>Segovia</provincia>
+                  </direccion>
+                  <correo_electronico>roberto.alva@gmail.com</correo_electronico>
+                  <fecha_inclusion>2021-05-10</fecha_inclusion>
+                  <detalle_pedido>
+                    <numero_pedido>10</numero_pedido>
+                    <fecha_compra>2021-05-14</fecha_compra>
+                    <fecha_entrega>2021-05-17</fecha_entrega>
+                    <total_factura>752.67</total_factura>
+                    <productos>
+                      <producto>
+                        <nombre_producto>Playstation 5</nombre_producto>
+                        <referencia>H6W7</referencia>
+                        <precio>250.89</precio>
+                        <unidades>3</unidades>
+                      </producto>
+                     </productos>
+                  </detalle_pedido>
+              </pedido>
+        </trimestre>
+  </año_2021>
+    <trimestre trimestre="4">
+      <pedido>
+        <nombre>Carolina</nombre>
+        <apellidos>Fernández</apellidos>
+        <telefono>606716766</telefono>
+        <direccion>
+          <calle>Calle Espinoza, 776, 2º E</calle>
+          <ciudad>Flórez del Vallès</ciudad>
+          <codigo_postal>96496</codigo_postal>
+          <provincia>Albacete</provincia>
+        </direccion>
+        <correo_electronico>carolina.fernandez@gmail.com</correo_electronico>
+        <fecha_inclusion>2021-05-12</fecha_inclusion>
+        <detalle_pedido>
+          <numero_pedido>1</numero_pedido>
+          <fecha_compra>2021-05-15</fecha_compra>
+          <fecha_entrega>2021-05-20</fecha_entrega>
+          <total_factura>76.65</total_factura>
+          <productos>
+            <producto>
+              <nombre_producto>Cascos inalambricos bluetooh</nombre_producto>
+              <referencia>QM6M</referencia>
+              <precio>25.55</precio>
+              <unidades>3</unidades>
+            </producto>
+           </productos>
+        </detalle_pedido>
+        </pedido>
+        <pedido>
+            <nombre>Luna</nombre>
+            <apellidos>Meléndez</apellidos>
+            <telefono>625526822</telefono>
+            <direccion>
+              <calle>Plaza Sosa, 16, 46º 6º</calle>
+              <ciudad>Osorio de Lemos</ciudad>
+              <codigo_postal>31770</codigo_postal>
+              <provincia>Ávila</provincia>
+            </direccion>
+            <correo_electronico>luna.melendez@gmail.com</correo_electronico>
+            <fecha_inclusion>2021-11-14</fecha_inclusion>
+            <detalle_pedido>
+              <numero_pedido>2</numero_pedido>
+              <fecha_compra>2021-11-10</fecha_compra>
+              <fecha_entrega>2021-11-17</fecha_entrega>
+              <total_factura>63.96</total_factura>
+              <productos>
+                <producto>
+                  <nombre_producto>Cartera de mano</nombre_producto>
+                  <referencia>X7N9</referencia>
+                  <precio>10.66</precio>
+                  <unidades>6</unidades>
+                </producto>
+              </productos>
+            </detalle_pedido>
+        </pedido>
+        <pedido>
+            <nombre>Francisco</nombre>
+            <apellidos>Corona</apellidos>
+            <telefono>672001829</telefono>
+            <direccion>
+              <calle>Passeig Luna, 42, 0º C</calle>
+              <ciudad>Villa Concepción</ciudad>
+              <codigo_postal>37689</codigo_postal>
+              <provincia>Santa Cruz de Tenerife</provincia>
+            </direccion>
+            <correo_electronico>francisco.corona@gmail.com</correo_electronico>
+            <fecha_inclusion>2021-04-10</fecha_inclusion>
+            <detalle_pedido>
+              <numero_pedido>3</numero_pedido>
+              <fecha_compra>2021-04-14</fecha_compra>
+              <fecha_entrega>2021-04-17</fecha_entrega>
+              <total_factura>240.80</total_factura>
+              <productos>
+                <producto>
+                  <nombre_producto>Mochila Vans</nombre_producto>
+                  <referencia>WW7Y</referencia>
+                  <precio>48.16</precio>
+                  <unidades>5</unidades>
+                </producto>
+               </productos>
+            </detalle_pedido>
+        </pedido>
+        <pedido>
+            <nombre>Martina</nombre>
+            <apellidos>Arguello</apellidos>
+            <telefono>650209988</telefono>
+            <direccion>
+              <calle>Plaça Pastor, 53, 6º B</calle>
+              <ciudad>As Olmos</ciudad>
+              <codigo_postal>28999</codigo_postal>
+              <provincia>Salamanca</provincia>
+            </direccion>
+            <correo_electronico>martina.arguello@gmail.com</correo_electronico>
+            <fecha_inclusion>2021-02-10</fecha_inclusion>
+            <detalle_pedido>
+              <numero_pedido>4</numero_pedido>
+              <fecha_compra>2021-02-14</fecha_compra>
+              <fecha_entrega>2021-02-17</fecha_entrega>
+              <total_factura>281.12</total_factura>
+              <productos>
+                <producto>
+                  <nombre_producto>Ventilador de techo</nombre_producto>
+                  <referencia>6S4D</referencia>
+                  <precio>35.14</precio>
+                  <unidades>8</unidades>
+                </producto>
+               </productos>
+            </detalle_pedido>
+        </pedido>
+        <pedido>
+            <nombre>Ignacio</nombre>
+            <apellidos>Melgar</apellidos>
+            <telefono>626861674</telefono>
+            <direccion>
+              <calle>Carrer Carmen, 9, Entre suelo 5º</calle>
+              <ciudad>Las Díaz</ciudad>
+              <codigo_postal>09129</codigo_postal>
+              <provincia>Cuenca</provincia>
+            </direccion>
+            <correo_electronico>nacho.melgar@gmail.com</correo_electronico>
+            <fecha_inclusion>2021-08-10</fecha_inclusion>
+            <detalle_pedido>
+              <numero_pedido>5</numero_pedido>
+              <fecha_compra>2021-08-14</fecha_compra>
+              <fecha_entrega>2021-08-17</fecha_entrega>
+              <total_factura>96.60</total_factura>
+              <productos>
+                <producto>
+                  <nombre_producto>Sudadera de rayas</nombre_producto>
+                  <referencia>CEMQ</referencia>
+                  <precio>24.15</precio>
+                  <unidades>4</unidades>
+                </producto>
+               </productos>
+            </detalle_pedido>
+        </pedido>
+        <pedido>
+            <nombre>Javier</nombre>
+            <apellidos>Solorzano</apellidos>
+            <telefono>944148638</telefono>
+            <direccion>
+              <calle>Plaza Anna, 17, 3º C</calle>
+              <ciudad>Cazares de Lemos</ciudad>
+              <codigo_postal>85563</codigo_postal>
+              <provincia>Barcelona</provincia>
+            </direccion>
+            <correo_electronico>javier.solorzano@gmail.com</correo_electronico>
+            <fecha_inclusion>2021-06-10</fecha_inclusion>
+            <detalle_pedido>
+              <numero_pedido>6</numero_pedido>
+              <fecha_compra>2021-06-14</fecha_compra>
+              <fecha_entrega>2021-06-17</fecha_entrega>
+              <total_factura>25.00</total_factura>
+              <productos>
+                <producto>
+                  <nombre_producto>Camiseta del Fuenlabrada</nombre_producto>
+                  <referencia>PW3S</referencia>
+                  <precio>12.50</precio>
+                  <unidades>2</unidades>
+                </producto>
+               </productos>
+            </detalle_pedido>
+        </pedido>
+        <pedido>
+            <nombre>Javier</nombre>
+            <apellidos>Solorzano</apellidos>
+            <telefono>944148638</telefono>
+            <direccion>
+              <calle>Plaza Anna, 17, 3º C</calle>
+              <ciudad>Cazares de Lemos</ciudad>
+              <codigo_postal>85563</codigo_postal>
+              <provincia>Barcelona</provincia>
+            </direccion>
+            <correo_electronico>javier.solorzano@gmail.com</correo_electronico>
+            <fecha_inclusion>2021-10-20</fecha_inclusion>
+            <detalle_pedido>
+              <numero_pedido>7</numero_pedido>
+              <fecha_compra>2021-10-24</fecha_compra>
+              <fecha_entrega>2021-10-27</fecha_entrega>
+              <total_factura>46.50</total_factura>
+              <productos>
+                <producto>
+                  <nombre_producto>Sudadera del los Chicago Bulls</nombre_producto>
+                  <referencia>SKQN</referencia>
+                  <precio>15.50</precio>
+                  <unidades>3</unidades>
+                </producto>
+               </productos>
+            </detalle_pedido>
+        </pedido>
+        <pedido>
+            <nombre>Javier</nombre>
+            <apellidos>Solorzano</apellidos>
+            <telefono>944148638</telefono>
+            <direccion>
+              <calle>Plaza Anna, 17, 3º C</calle>
+              <ciudad>Cazares de Lemos</ciudad>
+              <codigo_postal>85563</codigo_postal>
+              <provincia>Barcelona</provincia>
+            </direccion>
+            <correo_electronico>javier.solorzano@gmail.com</correo_electronico>
+            <fecha_inclusion>2021-04-01</fecha_inclusion>
+            <detalle_pedido>
+              <numero_pedido>8</numero_pedido>
+              <fecha_compra>2021-04-04</fecha_compra>
+              <fecha_entrega>2021-04-07</fecha_entrega>
+              <total_factura>20.50</total_factura>
+              <productos>
+                <producto>
+                  <nombre_producto>Pantalón vaquero gris</nombre_producto>
+                  <referencia>7JWA</referencia>
+                  <precio>20.50</precio>
+                  <unidades>1</unidades>
+                </producto>
+               </productos>
+            </detalle_pedido>
+        </pedido>
+        <pedido>
+            <nombre>Javier</nombre>
+            <apellidos>Solorzano</apellidos>
+            <telefono>944148638</telefono>
+            <direccion>
+              <calle>Plaza Anna, 17, 3º C</calle>
+              <ciudad>Cazares de Lemos</ciudad>
+              <codigo_postal>85563</codigo_postal>
+              <provincia>Barcelona</provincia>
+            </direccion>
+            <correo_electronico>javier.solorzano@gmail.com</correo_electronico>
+            <fecha_inclusion>2021-01-10</fecha_inclusion>
+            <detalle_pedido>
+              <numero_pedido>9</numero_pedido>
+              <fecha_compra>2021-01-14</fecha_compra>
+              <fecha_entrega>2021-01-17</fecha_entrega>
+              <total_factura>37.50</total_factura>
+              <productos>
+                <producto>
+                  <nombre_producto>Botas para la nieve</nombre_producto>
+                  <referencia>C5ZD</referencia>
+                  <precio>12.50</precio>
+                  <unidades>3</unidades>
+                </producto>
+               </productos>
+            </detalle_pedido>
+        </pedido>
+        <pedido>
+            <nombre>Javier</nombre>
+            <apellidos>Solorzano</apellidos>
+            <telefono>944148638</telefono>
+            <direccion>
+              <calle>Plaza Anna, 17, 3º C</calle>
+              <ciudad>Cazares de Lemos</ciudad>
+              <codigo_postal>85563</codigo_postal>
+              <provincia>Barcelona</provincia>
+            </direccion>
+            <correo_electronico>javier.solorzano@gmail.com</correo_electronico>
+            <fecha_inclusion>2021-11-10</fecha_inclusion>
+            <detalle_pedido>
+              <numero_pedido>10</numero_pedido>
+              <fecha_compra>2021-11-14</fecha_compra>
+              <fecha_entrega>2021-11-17</fecha_entrega>
+              <total_factura>37.77</total_factura>
+              <productos>
+                <producto>
+                  <nombre_producto>Chaleco marron formal</nombre_producto>
+                  <referencia>9ZRB</referencia>
+                  <precio>12.59</precio>
+                  <unidades>3</unidades>
+                </producto>
+               </productos>
+            </detalle_pedido>
+        </pedido>
+        </trimestre>
+    <año_2022>
+    <trimestre trimestre="1">
+      <pedido>
+        <nombre>Adrián</nombre>
+        <apellidos>Puente</apellidos>
+        <telefono>939456106</telefono>
+        <direccion>
+          <calle>Travesía Oliver, 230, Bajos</calle>
+          <ciudad>San Rodríguez del Vallès</ciudad>
+          <codigo_postal>03437</codigo_postal>
+          <provincia>Ceuta</provincia>
+        </direccion>
+        <correo_electronico>adrian.puente@gmail.com</correo_electronico>
+        <fecha_inclusion>2022-01-01</fecha_inclusion>
+        <detalle_pedido>
+          <numero_pedido>1</numero_pedido>
+          <fecha_compra>2022-01-05</fecha_compra>
+          <fecha_entrega>2022-01-10</fecha_entrega>
+          <total_factura>229.35</total_factura>
+          <productos>
+            <producto>
+              <nombre_producto>Sudadera Kappa</nombre_producto>
+              <referencia>BW8Z</referencia>
+              <precio>45.87</precio>
+              <unidades>5</unidades>
+            </producto>
+           </productos>
+        </detalle_pedido>
+        </pedido>
+        <pedido>
+            <nombre>Daniel</nombre>
+            <apellidos>Aragón</apellidos>
+            <telefono>668476654</telefono>
+            <direccion>
+              <calle>Passeig Sandra, 8, Ático 4º</calle>
+              <ciudad>San Quezada</ciudad>
+              <codigo_postal>33545</codigo_postal>
+              <provincia>Álava</provincia>
+            </direccion>
+            <correo_electronico>daniel.aragon@gmail.com</correo_electronico>
+            <fecha_inclusion>2022-03-14</fecha_inclusion>
+            <detalle_pedido>
+              <numero_pedido>2</numero_pedido>
+              <fecha_compra>2022-03-10</fecha_compra>
+              <fecha_entrega>2022-03-17</fecha_entrega>
+              <total_factura>155.70</total_factura>
+              <productos>
+                <producto>
+                  <nombre_producto>Camiseta Porcinos</nombre_producto>
+                  <referencia>RQZS</referencia>
+                  <precio>25.95</precio>
+                  <unidades>6</unidades>
+                </producto>
+               </productos>
+            </detalle_pedido>
+        </pedido>
+        <pedido>
+            <nombre>Óscar</nombre>
+            <apellidos>Ontiveros</apellidos>
+            <telefono>934989646</telefono>
+            <direccion>
+              <calle>Travessera Soler, 6, 0º 5º</calle>
+              <ciudad>Ávila de las Torres</ciudad>
+              <codigo_postal>51549</codigo_postal>
+              <provincia>Zaragoza</provincia>
+            </direccion>
+            <correo_electronico>oscar.ontiveros@gmail.com</correo_electronico>
+            <fecha_inclusion>2022-05-10</fecha_inclusion>
+            <detalle_pedido>
+              <numero_pedido>3</numero_pedido>
+              <fecha_compra>2022-05-14</fecha_compra>
+              <fecha_entrega>2022-05-17</fecha_entrega>
+              <total_factura>356.80</total_factura>
+              <productos>
+                <producto>
+                  <nombre_producto>Chandal 1K</nombre_producto>
+                  <referencia>JD76</referencia>
+                  <precio>35.68</precio>
+                  <unidades>10</unidades>
+                </producto>
+               </productos>
+            </detalle_pedido>
+        </pedido>
+        <pedido>
+            <nombre>Yago</nombre>
+            <apellidos>Ceballos Hijo</apellidos>
+            <telefono>994485445</telefono>
+            <direccion>
+              <calle>Rúa Zoe, 599, 99º F</calle>
+              <ciudad>Terrazas del Penedès</ciudad>
+              <codigo_postal>17933</codigo_postal>
+              <provincia>Ourense</provincia>
+            </direccion>
+            <correo_electronico>yago.ceballos@gmail.com</correo_electronico>
+            <fecha_inclusion>2022-07-10</fecha_inclusion>
+            <detalle_pedido>
+              <numero_pedido>4</numero_pedido>
+              <fecha_compra>2022-07-14</fecha_compra>
+              <fecha_entrega>2022-07-17</fecha_entrega>
+              <total_factura>392.70</total_factura>
+              <productos>
+                <producto>
+                  <nombre_producto>Camiseta Troncos</nombre_producto>
+                  <referencia>L3CV</referencia>
+                  <precio>35.70</precio>
+                  <unidades>11</unidades>
+                </producto>
+               </productos>
+            </detalle_pedido>
+        </pedido>
+        <pedido>
+            <nombre>Fátima</nombre>
+            <apellidos>Corrales</apellidos>
+            <telefono>936934662</telefono>
+            <direccion>
+              <calle>Ronda Cardona, 0, 9º 6º</calle>
+              <ciudad>Martín de Ulla</ciudad>
+              <codigo_postal>10996</codigo_postal>
+              <provincia>Cádiz</provincia>
+            </direccion>
+            <correo_electronico>fatima.corrales@gmail.com</correo_electronico>
+            <fecha_inclusion>2022-02-10</fecha_inclusion>
+            <detalle_pedido>
+              <numero_pedido>5</numero_pedido>
+              <fecha_compra>2022-02-14</fecha_compra>
+              <fecha_entrega>2022-02-17</fecha_entrega>
+              <total_factura>287.88</total_factura>
+              <productos>
+                <producto>
+                  <nombre_producto>Camiseta Jijantes</nombre_producto>
+                  <referencia>EPLU</referencia>
+                  <precio>23.99</precio>
+                  <unidades>12</unidades>
+                </producto>
+               </productos>
+            </detalle_pedido>
+        </pedido>
+        <pedido>
+            <nombre>Irene</nombre>
+            <apellidos>Zambrano</apellidos>
+            <telefono>617424462</telefono>
+            <direccion>
+              <calle>Camiño Marcos, 081, 21º B</calle>
+              <ciudad>Amaya de Ulla</ciudad>
+              <codigo_postal>10996</codigo_postal>
+              <provincia>Ávila</provincia>
+            </direccion>
+            <correo_electronico>irene.zambrano@gmail.com</correo_electronico>
+            <fecha_inclusion>2022-12-10</fecha_inclusion>
+            <detalle_pedido>
+              <numero_pedido>6</numero_pedido>
+              <fecha_compra>2022-12-14</fecha_compra>
+              <fecha_entrega>2022-12-17</fecha_entrega>
+              <total_factura>183.05</total_factura>
+              <productos>
+                <producto>
+                  <nombre_producto>Camiseta Kunisport</nombre_producto>
+                  <referencia>BLZ7</referencia>
+                  <precio>26.15</precio>
+                  <unidades>7</unidades>
+                </producto>
+               </productos>
+            </detalle_pedido>
+        </pedido>
+        <pedido>
+            <nombre>Irene</nombre>
+            <apellidos>Zambrano</apellidos>
+            <telefono>617424462</telefono>
+            <direccion>
+              <calle>Camiño Marcos, 081, 21º B</calle>
+              <ciudad>Amaya de Ulla</ciudad>
+              <codigo_postal>10996</codigo_postal>
+              <provincia>Ávila</provincia>
+            </direccion>
+            <correo_electronico>irene.zambrano@gmail.com</correo_electronico>
+            <fecha_inclusion>2022-12-20</fecha_inclusion>
+            <detalle_pedido>
+              <numero_pedido>7</numero_pedido>
+              <fecha_compra>2022-12-24</fecha_compra>
+              <fecha_entrega>2022-12-27</fecha_entrega>
+              <total_factura>505.67</total_factura>
+              <productos>
+                <producto>
+                  <nombre_producto>Sudadera Kings League</nombre_producto>
+                  <referencia>55LX</referencia>
+                  <precio>45.97</precio>
+                  <unidades>11</unidades>
+                </producto>
+               </productos>
+            </detalle_pedido>
+        </pedido>
+        <pedido>
+            <nombre>Irene</nombre>
+            <apellidos>Zambrano</apellidos>
+            <telefono>617424462</telefono>
+            <direccion>
+              <calle>Camiño Marcos, 081, 21º B</calle>
+              <ciudad>Amaya de Ulla</ciudad>
+              <codigo_postal>10996</codigo_postal>
+              <provincia>Ávila</provincia>
+            </direccion>
+            <correo_electronico>irene.zambrano@gmail.com</correo_electronico>
+            <fecha_inclusion>2022-10-10</fecha_inclusion>
+            <detalle_pedido>
+              <numero_pedido>8</numero_pedido>
+              <fecha_compra>2022-10-14</fecha_compra>
+              <fecha_entrega>2022-10-17</fecha_entrega>
+              <total_factura>111.52</total_factura>
+              <productos>
+                <producto>
+                  <nombre_producto>Sudadera del Cadiz</nombre_producto>
+                  <referencia>87SS</referencia>
+                  <precio>55.76</precio>
+                  <unidades>2</unidades>
+                </producto>
+               </productos>
+            </detalle_pedido>
+        </pedido>
+        <pedido>
+            <nombre>Irene</nombre>
+            <apellidos>Zambrano</apellidos>
+            <telefono>617424462</telefono>
+            <direccion>
+              <calle>Camiño Marcos, 081, 21º B</calle>
+              <ciudad>Amaya de Ulla</ciudad>
+              <codigo_postal>10996</codigo_postal>
+              <provincia>Ávila</provincia>
+            </direccion>
+            <correo_electronico>irene.zambrano@gmail.com</correo_electronico>
+            <fecha_inclusion>2022-08-10</fecha_inclusion>
+            <detalle_pedido>
+              <numero_pedido>9</numero_pedido>
+              <fecha_compra>2022-08-14</fecha_compra>
+              <fecha_entrega>2022-08-17</fecha_entrega>
+              <total_factura>264.44</total_factura>
+              <productos>
+                <producto>
+                  <nombre_producto>Replica Copa del Mundial</nombre_producto>
+                  <referencia>P5KU</referencia>
+                  <precio>66.11</precio>
+                  <unidades>4</unidades>
+                </producto>
+               </productos>
+            </detalle_pedido>
+        </pedido>
+        <pedido>
+            <nombre>Irene</nombre>
+            <apellidos>Zambrano</apellidos>
+            <telefono>617424462</telefono>
+            <direccion>
+              <calle>Camiño Marcos, 081, 21º B</calle>
+              <ciudad>Amaya de Ulla</ciudad>
+              <codigo_postal>10996</codigo_postal>
+              <provincia>Ávila</provincia>
+            </direccion>
+            <correo_electronico>irene.zambrano@gmail.com</correo_electronico>
+            <fecha_inclusion>2022-09-10</fecha_inclusion>
+            <detalle_pedido>
+              <numero_pedido>10</numero_pedido>
+              <fecha_compra>2022-09-14</fecha_compra>
+              <fecha_entrega>2022-09-17</fecha_entrega>
+              <total_factura>173.25</total_factura>
+              <productos>
+                <producto>
+                  <nombre_producto>Balón Kings League</nombre_producto>
+                  <referencia>PKCB</referencia>
+                  <precio>24.75</precio>
+                  <unidades>7</unidades>
+                </producto>
+               </productos>
+            </detalle_pedido>
+        </pedido>
+        </trimestre>
+        <trimestre trimestre="2">
+            <pedido>
+              <nombre>Leire</nombre>
+              <apellidos>Rueda</apellidos>
+              <telefono>664254097</telefono>
+              <direccion>
+                <calle>Rúa Diego, 594, 06º D</calle>
+                <ciudad>L' Parra del Puerto</ciudad>
+                <codigo_postal>94913</codigo_postal>
+                <provincia>Valencia</provincia>
+              </direccion>
+              <correo_electronico>leire.rueda@gmail.com</correo_electronico>
+              <fecha_inclusion>2022-04-11</fecha_inclusion>
+              <detalle_pedido>
+                <numero_pedido>1</numero_pedido>
+                <fecha_compra>2022-04-15</fecha_compra>
+                <fecha_entrega>2022-04-20</fecha_entrega>
+                <total_factura>127.95</total_factura>
+                <productos>
+                  <producto>
+                    <nombre_producto>Silbato para árbitro</nombre_producto>
+                    <referencia>PWVP</referencia>
+                    <precio>25.59</precio>
+                    <unidades>5</unidades>
+                  </producto>
+                 </productos>
+              </detalle_pedido>
+              </pedido>
+              <pedido>
+                  <nombre>Naiara</nombre>
+                  <apellidos>Escalante</apellidos>
+                  <telefono>621368904</telefono>
+                  <direccion>
+                    <calle>Paseo Diana, 2, 8º E</calle>
+                    <ciudad>Vall Gómez</ciudad>
+                    <codigo_postal>27659</codigo_postal>
+                    <provincia>Illes Balears</provincia>
+                  </direccion>
+                  <correo_electronico>naiara.escalante@gmail.com</correo_electronico>
+                  <fecha_inclusion>2022-05-04</fecha_inclusion>
+                  <detalle_pedido>
+                    <numero_pedido>2</numero_pedido>
+                    <fecha_compra>2022-05-10</fecha_compra>
+                    <fecha_entrega>2022-05-17</fecha_entrega>
+                    <total_factura>376.87</total_factura>
+                    <productos>
+                      <producto>
+                        <nombre_producto>Altavoves Gaming</nombre_producto>
+                        <referencia>WLZE</referencia>
+                        <precio>28.99</precio>
+                        <unidades>13</unidades>
+                      </producto>
+                     </productos>
+                  </detalle_pedido>
+              </pedido>
+              <pedido>
+                  <nombre>Guillem</nombre>
+                  <apellidos>Villar</apellidos>
+                  <telefono>680650720</telefono>
+                  <direccion>
+                    <calle>Carrer Raúl, 506, 14º 0º</calle>
+                    <ciudad>Salas Alta</ciudad>
+                    <codigo_postal>39651</codigo_postal>
+                    <provincia>Lleida</provincia>
+                  </direccion>
+                  <correo_electronico>guillem.villar@gmail.com</correo_electronico>
+                  <fecha_inclusion>2022-11-01</fecha_inclusion>
+                  <detalle_pedido>
+                    <numero_pedido>3</numero_pedido>
+                    <fecha_compra>2022-11-14</fecha_compra>
+                    <fecha_entrega>2022-11-17</fecha_entrega>
+                    <total_factura>71.80</total_factura>
+                    <productos>
+                      <producto>
+                        <nombre_producto>Chandal Addidas</nombre_producto>
+                        <referencia>G9LP</referencia>
+                        <precio>35.90</precio>
+                        <unidades>2</unidades>
+                      </producto>
+                     </productos>
+                  </detalle_pedido>
+              </pedido>
+              <pedido>
+                  <nombre>Naia</nombre>
+                  <apellidos>Corrales</apellidos>
+                  <telefono>944135739</telefono>
+                  <direccion>
+                    <calle>Avenida Rascón, 48, 03º B</calle>
+                    <ciudad>A Carreón</ciudad>
+                    <codigo_postal>91825</codigo_postal>
+                    <provincia>Zamora</provincia>
+                  </direccion>
+                  <correo_electronico>naia.corrales@gmail.com</correo_electronico>
+                  <fecha_inclusion>2022-02-12</fecha_inclusion>
+                  <detalle_pedido>
+                    <numero_pedido>4</numero_pedido>
+                    <fecha_compra>2022-02-24</fecha_compra>
+                    <fecha_entrega>2022-02-28</fecha_entrega>
+                    <total_factura>174.90</total_factura>
+                    <productos>
+                      <producto>
+                        <nombre_producto>Impresora HP</nombre_producto>
+                        <referencia>P6EH</referencia>
+                        <precio>34.98</precio>
+                        <unidades>5</unidades>
+                      </producto>
+                     </productos>
+                  </detalle_pedido>
+              </pedido>
+              <pedido>
+                  <nombre>Sara</nombre>
+                  <apellidos>Ávila</apellidos>
+                  <telefono>698400073</telefono>
+                  <direccion>
+                    <calle>Camiño Méndez, 8, 96º D</calle>
+                    <ciudad>Cobo del Pozo</ciudad>
+                    <codigo_postal>87629</codigo_postal>
+                    <provincia>Almería</provincia>
+                  </direccion>
+                  <correo_electronico>sara.avila@gmail.com</correo_electronico>
+                  <fecha_inclusion>2022-12-07</fecha_inclusion>
+                  <detalle_pedido>
+                    <numero_pedido>5</numero_pedido>
+                    <fecha_compra>2022-12-24</fecha_compra>
+                    <fecha_entrega>2022-12-31</fecha_entrega>
+                    <total_factura>251.25</total_factura>
+                    <productos>
+                      <producto>
+                        <nombre_producto>Cuadro Paisaje</nombre_producto>
+                        <referencia>8VHB</referencia>
+                        <precio>16.75</precio>
+                        <unidades>15</unidades>
+                      </producto>
+                     </productos>
+                  </detalle_pedido>
+              </pedido>
+              <pedido>
+                  <nombre>Enrique</nombre>
+                  <apellidos>Tovar</apellidos>
+                  <telefono>650121621</telefono>
+                  <direccion>
+                    <calle>Avinguda Lola, 7, 81º B</calle>
+                    <ciudad>Os Carvajal del Mirador</ciudad>
+                    <codigo_postal>54675</codigo_postal>
+                    <provincia>Cáceres</provincia>
+                  </direccion>
+                  <correo_electronico>enrique.tovar@gmail.com</correo_electronico>
+                  <fecha_inclusion>2022-03-15</fecha_inclusion>
+                  <detalle_pedido>
+                    <numero_pedido>6</numero_pedido>
+                    <fecha_compra>2022-03-24</fecha_compra>
+                    <fecha_entrega>2022-07-31</fecha_entrega>
+                    <total_factura>154.90</total_factura>
+                    <productos>
+                      <producto>
+                        <nombre_producto>Cartuchos para impresora</nombre_producto>
+                        <referencia>X3BV</referencia>
+                        <precio>15.49</precio>
+                        <unidades>10</unidades>
+                      </producto>
+                     </productos>
+                  </detalle_pedido>
+              </pedido>
+              <pedido>
+                  <nombre>Enrique</nombre>
+                  <apellidos>Tovar</apellidos>
+                  <telefono>650121621</telefono>
+                  <direccion>
+                    <calle>Avinguda Lola, 7, 81º B</calle>
+                    <ciudad>Os Carvajal del Mirador</ciudad>
+                    <codigo_postal>54675</codigo_postal>
+                    <provincia>Cáceres</provincia>
+                  </direccion>
+                  <correo_electronico>enrique.tovar@gmail.comm</correo_electronico>
+                  <fecha_inclusion>2022-12-20</fecha_inclusion>
+                  <detalle_pedido>
+                    <numero_pedido>7</numero_pedido>
+                    <fecha_compra>2022-10-24</fecha_compra>
+                    <fecha_entrega>2022-10-27</fecha_entrega>
+                    <total_factura>181.86</total_factura>
+                    <productos>
+                      <producto>
+                        <nombre_producto>Sudadera Joma</nombre_producto>
+                        <referencia>K3VK</referencia>
+                        <precio>25.98</precio>
+                        <unidades>7</unidades>
+                      </producto>
+                     </productos>
+                  </detalle_pedido>
+              </pedido>
+              <pedido>
+                  <nombre>Enrique</nombre>
+                  <apellidos>Tovar</apellidos>
+                  <telefono>650121621</telefono>
+                  <direccion>
+                    <calle>Avinguda Lola, 7, 81º B</calle>
+                    <ciudad>Os Carvajal del Mirador</ciudad>
+                    <codigo_postal>54675</codigo_postal>
+                    <provincia>Cáceres</provincia>
+                  </direccion>
+                  <correo_electronico>enrique.tovar@gmail.com</correo_electronico>
+                  <fecha_inclusion>2022-10-10</fecha_inclusion>
+                  <detalle_pedido>
+                    <numero_pedido>8</numero_pedido>
+                    <fecha_compra>2022-05-14</fecha_compra>
+                    <fecha_entrega>2022-05-17</fecha_entrega>
+                    <total_factura>111.00</total_factura>
+                    <productos>
+                      <producto>
+                        <nombre_producto>Pantalón de tela</nombre_producto>
+                        <referencia>79JX</referencia>
+                        <precio>55.50</precio>
+                        <unidades>2</unidades>
+                      </producto>
+                     </productos>
+                  </detalle_pedido>
+              </pedido>
+              <pedido>
+                  <nombre>Enrique</nombre>
+                  <apellidos>Tovar</apellidos>
+                  <telefono>650121621</telefono>
+                  <direccion>
+                    <calle>Avinguda Lola, 7, 81º B</calle>
+                    <ciudad>Os Carvajal del Mirador</ciudad>
+                    <codigo_postal>54675</codigo_postal>
+                    <provincia>Cáceres</provincia>
+                  </direccion>
+                  <correo_electronico>enrique.tovar@gmail.com</correo_electronico>
+                  <fecha_inclusion>2022-08-10</fecha_inclusion>
+                  <detalle_pedido>
+                    <numero_pedido>9</numero_pedido>
+                    <fecha_compra>2022-06-14</fecha_compra>
+                    <fecha_entrega>2022-06-17</fecha_entrega>
+                    <total_factura>196.23</total_factura>
+                    <productos>
+                      <producto>
+                        <nombre_producto>Zapatillas Air Force</nombre_producto>
+                        <referencia>6PHF</referencia>
+                        <precio>65.41</precio>
+                        <unidades>3</unidades>
+                      </producto>
+                     </productos>
+                  </detalle_pedido>
+              </pedido>
+              <pedido>
+                  <nombre>Enrique</nombre>
+                  <apellidos>Tovar</apellidos>
+                  <telefono>650121621</telefono>
+                  <direccion>
+                    <calle>Avinguda Lola, 7, 81º B</calle>
+                    <ciudad>Os Carvajal del Mirador</ciudad>
+                    <codigo_postal>54675</codigo_postal>
+                    <provincia>Cáceres</provincia>
+                  </direccion>
+                  <correo_electronico>enrique.tovar@gmail.com</correo_electronico>
+                  <fecha_inclusion>2022-09-10</fecha_inclusion>
+                  <detalle_pedido>
+                    <numero_pedido>10</numero_pedido>
+                    <fecha_compra>2022-01-14</fecha_compra>
+                    <fecha_entrega>2022-01-17</fecha_entrega>
+                    <total_factura>138.76</total_factura>
+                    <productos>
+                      <producto>
+                        <nombre_producto>Gafas de vista</nombre_producto>
+                        <referencia>HYD7</referencia>
+                        <precio>34.69</precio>
+                        <unidades>4</unidades>
+                      </producto>
+                     </productos>
+                  </detalle_pedido>
+              </pedido>
+        </trimestre>
+        <trimestre trimestre="3">
+            <pedido>
+              <nombre>Gonzalo</nombre>
+              <apellidos>Cavazos</apellidos>
+              <telefono>950683940</telefono>
+              <direccion>
+                <calle>Plaça Muñoz, 1, 65º 7º</calle>
+                <ciudad>O Moya de las Torres</ciudad>
+                <codigo_postal>06140</codigo_postal>
+                <provincia>Valladolid</provincia>
+              </direccion>
+              <correo_electronico>gonzalo.cavazos@gmail.com</correo_electronico>
+              <fecha_inclusion>2022-12-09</fecha_inclusion>
+              <detalle_pedido>
+                <numero_pedido>1</numero_pedido>
+                <fecha_compra>2022-09-05</fecha_compra>
+                <fecha_entrega>2022-09-10</fecha_entrega>
+                <total_factura>410.72</total_factura>
+                <productos>
+                  <producto>
+                    <nombre_producto>Borrador de pizarra</nombre_producto>
+                    <referencia>N7KY</referencia>
+                    <precio>25.67</precio>
+                    <unidades>16</unidades>
+                  </producto>
+                 </productos>
+              </detalle_pedido>
+              </pedido>
+              <pedido>
+                  <nombre>Joan</nombre>
+                  <apellidos>Magaña</apellidos>
+                  <telefono>662476368</telefono>
+                  <direccion>
+                    <calle>Avenida Dario, 9, 14º E</calle>
+                    <ciudad>Rojas del Vallès</ciudad>
+                    <codigo_postal>48247</codigo_postal>
+                    <provincia>Las Palmas</provincia>
+                  </direccion>
+                  <correo_electronico>joan.magaña@gmail.com</correo_electronico>
+                  <fecha_inclusion>2022-07-14</fecha_inclusion>
+                  <detalle_pedido>
+                    <numero_pedido>2</numero_pedido>
+                    <fecha_compra>2022-07-17</fecha_compra>
+                    <fecha_entrega>2022-07-25</fecha_entrega>
+                    <total_factura>55.68</total_factura>
+                    <productos>
+                      <producto>
+                        <nombre_producto>Rotus de pizarra</nombre_producto>
+                        <referencia>35NG</referencia>
+                        <precio>06.96</precio>
+                        <unidades>8</unidades>
+                      </producto>
+                     </productos>
+                  </detalle_pedido>
+              </pedido>
+              <pedido>
+                  <nombre>Victoria</nombre>
+                  <apellidos>Fierro</apellidos>
+                  <telefono>961169930</telefono>
+                  <direccion>
+                    <calle>Rúa Lozada, 1, 81º E</calle>
+                    <ciudad>Os Rodarte</ciudad>
+                    <codigo_postal>34250</codigo_postal>
+                    <provincia>A Coruña</provincia>
+                  </direccion>
+                  <correo_electronico>victoria.fierro@gmail.com</correo_electronico>
+                  <fecha_inclusion>2022-01-25</fecha_inclusion>
+                  <detalle_pedido>
+                    <numero_pedido>3</numero_pedido>
+                    <fecha_compra>2022-01-14</fecha_compra>
+                    <fecha_entrega>2022-01-17</fecha_entrega>
+                    <total_factura>137.97</total_factura>
+                    <productos>
+                      <producto>
+                        <nombre_producto>Suscripción Netflix</nombre_producto>
+                        <referencia>5ZK4</referencia>
+                        <precio>45.99</precio>
+                        <unidades>3</unidades>
+                      </producto>
+                     </productos>
+                  </detalle_pedido>
+              </pedido>
+              <pedido>
+                  <nombre>Inés</nombre>
+                  <apellidos>Altamirano</apellidos>
+                  <telefono>629078257</telefono>
+                  <direccion>
+                    <calle>Paseo Aya, 073, 2º E</calle>
+                    <ciudad>Juan del Pozo</ciudad>
+                    <codigo_postal>53057</codigo_postal>
+                    <provincia>Tarragona</provincia>
+                  </direccion>
+                  <correo_electronico>ines.altamirano@gmail.com</correo_electronico>
+                  <fecha_inclusion>2022-06-12</fecha_inclusion>
+                  <detalle_pedido>
+                    <numero_pedido>4</numero_pedido>
+                    <fecha_compra>2022-06-24</fecha_compra>
+                    <fecha_entrega>2022-06-28</fecha_entrega>
+                    <total_factura>390.30</total_factura>
+                    <productos>
+                      <producto>
+                        <nombre_producto>Camaras de vigilancia</nombre_producto>
+                        <referencia>CZ75</referencia>
+                        <precio>78.06</precio>
+                        <unidades>5</unidades>
+                      </producto>
+                     </productos>
+                  </detalle_pedido>
+              </pedido>
+              <pedido>
+                  <nombre>Marc</nombre>
+                  <apellidos>Quintero Tercero</apellidos>
+                  <telefono>910877475</telefono>
+                  <direccion>
+                    <calle>Camiño Villalobos, 38, 4º A</calle>
+                    <ciudad>Ibarra del Penedès</ciudad>
+                    <codigo_postal>71763</codigo_postal>
+                    <provincia>Zaragoza</provincia>
+                  </direccion>
+                  <correo_electronico>marc.quintero@gmail.com</correo_electronico>
+                  <fecha_inclusion>2022-04-17</fecha_inclusion>
+                  <detalle_pedido>
+                    <numero_pedido>5</numero_pedido>
+                    <fecha_compra>2022-04-24</fecha_compra>
+                    <fecha_entrega>2022-04-31</fecha_entrega>
+                    <total_factura>321.74</total_factura>
+                    <productos>
+                      <producto>
+                        <nombre_producto>Samsung S20</nombre_producto>
+                        <referencia>66BH</referencia>
+                        <precio>321.74</precio>
+                        <unidades>1</unidades>
+                      </producto>
+                     </productos>
+                  </detalle_pedido>
+              </pedido>
+              <pedido>
+                  <nombre>Mar</nombre>
+                  <apellidos>Pedraza</apellidos>
+                  <telefono>646364702</telefono>
+                  <direccion>
+                    <calle>Avinguda Antonio, 7, 4º A</calle>
+                    <ciudad>Alejandro del Puerto</ciudad>
+                    <codigo_postal>60139</codigo_postal>
+                    <provincia>León</provincia>
+                  </direccion>
+                  <correo_electronico>mar.pedraza@gmail.com</correo_electronico>
+                  <fecha_inclusion>2022-06-11</fecha_inclusion>
+                  <detalle_pedido>
+                    <numero_pedido>6</numero_pedido>
+                    <fecha_compra>2022-06-27</fecha_compra>
+                    <fecha_entrega>2022-06-30</fecha_entrega>
+                    <total_factura>110.67</total_factura>
+                    <productos>
+                      <producto>
+                        <nombre_producto>Pulsera de los nudos</nombre_producto>
+                        <referencia>WM6K</referencia>
+                        <precio>06.51</precio>
+                        <unidades>17</unidades>
+                      </producto>
+                     </productos>
+                  </detalle_pedido>
+              </pedido>
+              <pedido>
+                  <nombre>Mar</nombre>
+                  <apellidos>Pedraza</apellidos>
+                  <telefono>646364702</telefono>
+                  <direccion>
+                    <calle>Avinguda Antonio, 7, 4º A</calle>
+                    <ciudad>Alejandro del Puerto</ciudad>
+                    <codigo_postal>60139</codigo_postal>
+                    <provincia>León</provincia>
+                  </direccion>
+                  <correo_electronico>mar.pedraza@gmail.com</correo_electronico>
+                  <fecha_inclusion>2022-03-20</fecha_inclusion>
+                  <detalle_pedido>
+                    <numero_pedido>7</numero_pedido>
+                    <fecha_compra>2022-03-24</fecha_compra>
+                    <fecha_entrega>2022-03-27</fecha_entrega>
+                    <total_factura>151.98</total_factura>
+                    <productos>
+                      <producto>
+                        <nombre_producto>Zapatos de cuero</nombre_producto>
+                        <referencia>RFF4</referencia>
+                        <precio>75.99</precio>
+                        <unidades>2</unidades>
+                      </producto>
+                     </productos>
+                  </detalle_pedido>
+              </pedido>
+              <pedido>
+                  <nombre>Mar</nombre>
+                  <apellidos>Pedraza</apellidos>
+                  <telefono>646364702</telefono>
+                  <direccion>
+                    <calle>Avinguda Antonio, 7, 4º A</calle>
+                    <ciudad>Alejandro del Puerto</ciudad>
+                    <codigo_postal>60139</codigo_postal>
+                    <provincia>León</provincia>
+                  </direccion>
+                  <correo_electronico>mar.pedraza@gmail.com</correo_electronico>
+                  <fecha_inclusion>2022-08-10</fecha_inclusion>
+                  <detalle_pedido>
+                    <numero_pedido>8</numero_pedido>
+                    <fecha_compra>2022-08-14</fecha_compra>
+                    <fecha_entrega>2022-08-17</fecha_entrega>
+                    <total_factura>632.25</total_factura>
+                    <productos>
+                      <producto>
+                        <nombre_producto>fundas personalizadas para móvil</nombre_producto>
+                        <referencia>E3D3</referencia>
+                        <precio>25.29</precio>
+                        <unidades>25</unidades>
+                      </producto>
+                     </productos>
+                  </detalle_pedido>
+              </pedido>
+              <pedido>
+                  <nombre>Mar</nombre>
+                  <apellidos>Pedraza</apellidos>
+                  <telefono>646364702</telefono>
+                  <direccion>
+                    <calle>Avinguda Antonio, 7, 4º A</calle>
+                    <ciudad>Alejandro del Puerto</ciudad>
+                    <codigo_postal>60139</codigo_postal>
+                    <provincia>León</provincia>
+                  </direccion>
+                  <correo_electronico>mar.pedraza@gmail.com</correo_electronico>
+                  <fecha_inclusion>2022-11-10</fecha_inclusion>
+                  <detalle_pedido>
+                    <numero_pedido>9</numero_pedido>
+                    <fecha_compra>2022-11-14</fecha_compra>
+                    <fecha_entrega>2022-11-17</fecha_entrega>
+                    <total_factura>44.38</total_factura>
+                    <productos>
+                      <producto>
+                        <nombre_producto>Batido Chocolate</nombre_producto>
+                        <referencia>JUJB</referencia>
+                        <precio>01.39</precio>
+                        <unidades>32</unidades>
+                      </producto>
+                     </productos>
+                  </detalle_pedido>
+              </pedido>
+              <pedido>
+                  <nombre>Mar</nombre>
+                  <apellidos>Pedraza</apellidos>
+                  <telefono>646364702</telefono>
+                  <direccion>
+                    <calle>Avinguda Antonio, 7, 4º A</calle>
+                    <ciudad>Alejandro del Puerto</ciudad>
+                    <codigo_postal>60139</codigo_postal>
+                    <provincia>León</provincia>
+                  </direccion>
+                  <correo_electronico>mar.pedraza@gmail.com</correo_electronico>
+                  <fecha_inclusion>2022-05-10</fecha_inclusion>
+                  <detalle_pedido>
+                    <numero_pedido>10</numero_pedido>
+                    <fecha_compra>2022-05-14</fecha_compra>
+                    <fecha_entrega>2022-05-17</fecha_entrega>
+                    <total_factura>1003.56</total_factura>
+                    <productos>
+                      <producto>
+                        <nombre_producto>Xbox One</nombre_producto>
+                        <referencia>CK43</referencia>
+                        <precio>250.89</precio>
+                        <unidades>4</unidades>
+                      </producto>
+                     </productos>
+                  </detalle_pedido>
+              </pedido>
+        </trimestre>
+        <trimestre4 trimestre="4">
+          <pedido>
+            <nombre>César</nombre>
+            <apellidos>Ramón</apellidos>
+            <telefono>919299263</telefono>
+            <direccion>
+              <calle>Avinguda Valle, 0, 5º A</calle>
+              <ciudad>Las Alvarado</ciudad>
+              <codigo_postal>90303</codigo_postal>
+              <provincia>Tarragona</provincia>
+            </direccion>
+            <correo_electronico>cesar.ramon@gmail.com</correo_electronico>
+            <fecha_inclusion>2022-10-09</fecha_inclusion>
+            <detalle_pedido>
+              <numero_pedido>1</numero_pedido>
+              <fecha_compra>2022-10-05</fecha_compra>
+              <fecha_entrega>2022-10-10</fecha_entrega>
+              <total_factura>177.70</total_factura>
+              <productos>
+                <producto>
+                  <nombre_producto>Reloj Huawei</nombre_producto>
+                  <referencia>4HP4</referencia>
+                  <precio>35.54</precio>
+                  <unidades>5</unidades>
+                </producto>
+               </productos>
+            </detalle_pedido>
+            </pedido>
+            <pedido>
+                <nombre>Manuel</nombre>
+                <apellidos>Reséndez Segundo</apellidos>
+                <telefono>691170369</telefono>
+                <direccion>
+                  <calle>Calle Acuña, 774, 2º B</calle>
+                  <ciudad>Ramos del Pozo</ciudad>
+                  <codigo_postal>04304</codigo_postal>
+                  <provincia>Girona</provincia>
+                </direccion>
+                <correo_electronico>manuel.resenez@gmail.com</correo_electronico>
+                <fecha_inclusion>2022-02-14</fecha_inclusion>
+                <detalle_pedido>
+                  <numero_pedido>2</numero_pedido>
+                  <fecha_compra>2022-02-17</fecha_compra>
+                  <fecha_entrega>2022-02-25</fecha_entrega>
+                  <total_factura>133.75</total_factura>
+                  <productos>
+                    <producto>
+                      <nombre_producto>Rotus de colores</nombre_producto>
+                      <referencia>UDJT</referencia>
+                      <precio>05.35</precio>
+                      <unidades>25</unidades>
+                    </producto>
+                   </productos>
+                </detalle_pedido>
+            </pedido>
+            <pedido>
+                <nombre>David</nombre>
+                <apellidos>Quesada</apellidos>
+                <telefono>942745333</telefono>
+                <direccion>
+                  <calle>Travesía Elena, 92, 51º C</calle>
+                  <ciudad>El Pastor del Bages</ciudad>
+                  <codigo_postal>61246</codigo_postal>
+                  <provincia>Melilla</provincia>
+                </direccion>
+                <correo_electronico>david.quesada@gmail.com</correo_electronico>
+                <fecha_inclusion>2022-05-25</fecha_inclusion>
+                <detalle_pedido>
+                  <numero_pedido>3</numero_pedido>
+                  <fecha_compra>2022-05-14</fecha_compra>
+                  <fecha_entrega>2022-05-17</fecha_entrega>
+                  <total_factura>294.69</total_factura>
+                  <productos>
+                    <producto>
+                      <nombre_producto>Camisa Pull and Bear</nombre_producto>
+                      <referencia>CDQQ</referencia>
+                      <precio>26.79</precio>
+                      <unidades>11</unidades>
+                    </producto>
+                   </productos>
+                </detalle_pedido>
+            </pedido>
+            <pedido>
+                <nombre>Cristina</nombre>
+                <apellidos>Guardado</apellidos>
+                <telefono>682174247</telefono>
+                <direccion>
+                  <calle>Ruela Lara, 36, 84º E</calle>
+                  <ciudad>Domingo del Puerto</ciudad>
+                  <codigo_postal>82585</codigo_postal>
+                  <provincia>Barcelona</provincia>
+                </direccion>
+                <correo_electronico>cristina.guardado@gmail.com</correo_electronico>
+                <fecha_inclusion>2022-12-12</fecha_inclusion>
+                <detalle_pedido>
+                  <numero_pedido>4</numero_pedido>
+                  <fecha_compra>2022-12-24</fecha_compra>
+                  <fecha_entrega>2022-12-28</fecha_entrega>
+                  <total_factura>05.10</total_factura>
+                  <productos>
+                    <producto>
+                      <nombre_producto>Pack de 6 botellas Solan de Cabras</nombre_producto>
+                      <referencia>77KM</referencia>
+                      <precio>02.55</precio>
+                      <unidades>2</unidades>
+                    </producto>
+                   </productos>
+                </detalle_pedido>
+            </pedido>
+            <pedido>
+                <nombre>Rodrigo</nombre>
+                <apellidos>Alicea</apellidos>
+                <telefono>971237818</telefono>
+                <direccion>
+                  <calle>Travesía Marta, 6, Bajos</calle>
+                  <ciudad>Montez de la Sierra</ciudad>
+                  <codigo_postal>71185</codigo_postal>
+                  <provincia>Guipuzkoa</provincia>
+                </direccion>
+                <correo_electronico>rodrigo.alicea@gmail.com</correo_electronico>
+                <fecha_inclusion>2022-07-17</fecha_inclusion>
+                <detalle_pedido>
+                  <numero_pedido>5</numero_pedido>
+                  <fecha_compra>2022-07-24</fecha_compra>
+                  <fecha_entrega>2022-07-31</fecha_entrega>
+                  <total_factura>73.77</total_factura>
+                  <productos>
+                    <producto>
+                      <nombre_producto>Trivial juego de mesa</nombre_producto>
+                      <referencia>DP7K</referencia>
+                      <precio>24.59</precio>
+                      <unidades>3</unidades>
+                    </producto>
+                   </productos>
+                </detalle_pedido>
+            </pedido>
+            <pedido>
+                <nombre>Enrique</nombre>
+                <apellidos>Irizarry</apellidos>
+                <telefono>604650489</telefono>
+                <direccion>
+                  <calle>Ruela Nil, 65, 5º 4º</calle>
+                  <ciudad>La Medina</ciudad>
+                  <codigo_postal>01064</codigo_postal>
+                  <provincia>Burgos</provincia>
+                </direccion>
+                <correo_electronico>enrique.irizarry@gmail.com</correo_electronico>
+                <fecha_inclusion>2022-06-11</fecha_inclusion>
+                <detalle_pedido>
+                  <numero_pedido>6</numero_pedido>
+                  <fecha_compra>2022-02-27</fecha_compra>
+                  <fecha_entrega>2022-02-30</fecha_entrega>
+                  <total_factura>95.00</total_factura>
+                  <productos>
+                    <producto>
+                      <nombre_producto>Pulsera de goma</nombre_producto>
+                      <referencia>GJV2</referencia>
+                      <precio>04.75</precio>
+                      <unidades>20</unidades>
+                    </producto>
+                   </productos>
+                </detalle_pedido>
+            </pedido>
+            <pedido>
+                <nombre>Enrique</nombre>
+                <apellidos>Irizarry</apellidos>
+                <telefono>604650489</telefono>
+                <direccion>
+                  <calle>Ruela Nil, 65, 5º 4º</calle>
+                  <ciudad>La Medina</ciudad>
+                  <codigo_postal>01064</codigo_postal>
+                  <provincia>Burgos</provincia>
+                </direccion>
+                <correo_electronico>enrique.irizarry@gmail.com</correo_electronico>
+                <fecha_inclusion>2022-08-20</fecha_inclusion>
+                <detalle_pedido>
+                  <numero_pedido>7</numero_pedido>
+                  <fecha_compra>2022-08-24</fecha_compra>
+                  <fecha_entrega>2022-08-27</fecha_entrega>
+                  <total_factura>152.76</total_factura>
+                  <productos>
+                    <producto>
+                      <nombre_producto>Maderas para carpinteria</nombre_producto>
+                      <referencia>PGF8</referencia>
+                      <precio>25.46</precio>
+                      <unidades>6</unidades>
+                    </producto>
+                   </productos>
+                </detalle_pedido>
+            </pedido>
+            <pedido>
+                <nombre>Enrique</nombre>
+                <apellidos>Irizarry</apellidos>
+                <telefono>604650489</telefono>
+                <direccion>
+                  <calle>Ruela Nil, 65, 5º 4º</calle>
+                  <ciudad>La Medina</ciudad>
+                  <codigo_postal>01064</codigo_postal>
+                  <provincia>Burgos</provincia>
+                </direccion>
+                <correo_electronico>enrique.irizarry@gmail.com</correo_electronico>
+                <fecha_inclusion>2022-11-10</fecha_inclusion>
+                <detalle_pedido>
+                  <numero_pedido>8</numero_pedido>
+                  <fecha_compra>2022-11-14</fecha_compra>
+                  <fecha_entrega>2022-11-17</fecha_entrega>
+                  <total_factura>189.00</total_factura>
+                  <productos>
+                    <producto>
+                      <nombre_producto>Material escolar</nombre_producto>
+                      <referencia>2H98</referencia>
+                      <precio>15.75</precio>
+                      <unidades>12</unidades>
+                    </producto>
+                   </productos>
+                </detalle_pedido>
+            </pedido>
+            <pedido>
+                <nombre>Enrique</nombre>
+                <apellidos>Irizarry</apellidos>
+                <telefono>604650489</telefono>
+                <direccion>
+                  <calle>Ruela Nil, 65, 5º 4º</calle>
+                  <ciudad>La Medina</ciudad>
+                  <codigo_postal>01064</codigo_postal>
+                  <provincia>Burgos</provincia>
+                </direccion>
+                <correo_electronico>enrique.irizarry@gmail.com</correo_electronico>
+                <fecha_inclusion>2022-06-10</fecha_inclusion>
+                <detalle_pedido>
+                  <numero_pedido>9</numero_pedido>
+                  <fecha_compra>2022-06-14</fecha_compra>
+                  <fecha_entrega>2022-06-17</fecha_entrega>
+                  <total_factura>43.75</total_factura>
+                  <productos>
+                    <producto>
+                      <nombre_producto>Batido Fresa</nombre_producto>
+                      <referencia>YNLL</referencia>
+                      <precio>01.75</precio>
+                      <unidades>25</unidades>
+                    </producto>
+                   </productos>
+                </detalle_pedido>
+            </pedido>
+            <pedido>
+                <nombre>Enrique</nombre>
+                <apellidos>Irizarry</apellidos>
+                <telefono>604650489</telefono>
+                <direccion>
+                  <calle>Ruela Nil, 65, 5º 4º</calle>
+                  <ciudad>La Medina</ciudad>
+                  <codigo_postal>01064</codigo_postal>
+                  <provincia>Burgos</provincia>
+                </direccion>
+                <correo_electronico>enrique.irizarry@gmail.com</correo_electronico>
+                <fecha_inclusion>2022-05-10</fecha_inclusion>
+                <detalle_pedido>
+                  <numero_pedido>10</numero_pedido>
+                  <fecha_compra>2022-01-14</fecha_compra>
+                  <fecha_entrega>2022-01-17</fecha_entrega>
+                  <total_factura>75.78</total_factura>
+                  <productos>
+                    <producto>
+                      <nombre_producto>Patatas fritas</nombre_producto>
+                      <referencia>MSJC</referencia>
+                      <precio>12.63</precio>
+                      <unidades>6</unidades>
+                    </producto>
+                   </productos>
+                </detalle_pedido>
+            </pedido>
+      </trimestre4>
+    </año_2022>
+</pedidos>
